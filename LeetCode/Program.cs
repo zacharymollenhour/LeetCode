@@ -1,12 +1,14 @@
 ﻿using System;
-
+using LeetCode.Recursion;
 namespace LeetCode
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            LetterCombinationsPhone.LetterCombinations("23");
         }
+
+       
     }
 }
